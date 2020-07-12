@@ -3,7 +3,7 @@ Project to investigate the usage of Vaadin Designer 4.5.7 in Compatability Mode 
 
 Run Karaf as follows ===================================================================
 
-paulf@paulf-X550LD ~/qneCustomKaraf/karaf $ bin/karaf debug clean
+`paulf@paulf-X550LD ~/qneCustomKaraf/karaf $ bin/karaf debug clean
 Listening for transport dt_socket at address: 5005
 
   Apache Karaf (4.3.0-SNAPSHOT)
@@ -18,4 +18,4 @@ karaf@root()> feature:install website
 
 Then browse ============================================================================
  
-to localhost:8181
+to localhost:8181`
