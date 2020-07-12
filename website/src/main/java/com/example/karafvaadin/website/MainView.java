@@ -21,8 +21,14 @@ import com.vaadin.flow.theme.lumo.Lumo;
 public class MainView extends VerticalLayout {
 
     public MainView() {
-        Button button = new Button("Click me",
-                event -> Notification.show("Clicked!"));
+        Button button = new Button("Click me");
+        button.addClickListener(click -> {
+            Notification.show("Clicked!");
+            button.getUI().ifPresent(ui -> ui.navigate("myview"));
+        });
+
         add(button);
+
+
     }
 }

@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4" />
+<module type="JAVA_MODULE" version="4">
+  <component name="designer2.settings">
+    <option name="lastJavaLocation" value="$MODULE_DIR$/src/main/java" />
+    <option name="lastJavaPackage" value="com.example.karafvaadin.website" />
+    <option name="lastTemplateLocation" value="$MODULE_DIR$/src/main/resources/META-INF/resources/frontend" />
+    <option name="serverIp" value="192.168.1.15" />
+    <option name="serverPort" value="33763" />
+  </component>
+</module>
