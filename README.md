@@ -5,11 +5,6 @@ Run Karaf as follows ===========================================================
 
 paulf@paulf-X550LD ~/qneCustomKaraf/karaf $ bin/karaf debug clean
 Listening for transport dt_socket at address: 5005
-        __ __                  ____      
-       / //_/____ __________ _/ __/      
-      / ,<  / __ `/ ___/ __ `/ /_        
-     / /| |/ /_/ / /  / /_/ / __/        
-    /_/ |_|\__,_/_/   \__,_/_/         
 
   Apache Karaf (4.3.0-SNAPSHOT)
 
